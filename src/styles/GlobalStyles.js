@@ -47,6 +47,8 @@ html {
   --whats-app-green-dim: #EBFFF0;
   --whats-app-red-dim: #FFECEC;
 
+  --theme-colors-theme-secondary: #53667B;
+
   --borderRadius: 0.25rem;
   --letterSpacing: 1px;
   --transition: 0.2s ease-in-out all;
